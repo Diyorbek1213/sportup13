@@ -1432,7 +1432,7 @@ main {
 }
 
 
-/* .footer__items.active_ {
+.footer__items.active_ {
 	opacity: 0;
 	visibility: hidden;
 }
@@ -1442,7 +1442,7 @@ main {
 	transition: all 0.3s ease 0s;
 	opacity: 0;
 	visibility: hidden;
-} */
+}
 
 .footer__link__block {
 	font-weight: 600;
